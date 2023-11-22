@@ -3,7 +3,7 @@ git:
 
 dist: focal
 language: c
-os: linux
+os: linux1
 addons:
   apt:
     packages:
